@@ -1,4 +1,6 @@
 
+
+/* CSS for All */
 *{
     margin: 0 0;
     padding: 0 0;
@@ -80,6 +82,15 @@ fieldset{
     border-radius: 5px;
 }
 
+.error{
+    padding: 2%;
+    color: red;
+}
+.success{
+    padding: 2%;
+    color: green;
+}
+
 
 /* CSSS for navbar section */
 
@@ -101,7 +112,7 @@ fieldset{
 }
 
 
-/* CSS for Food Search Section */
+/* CSS for Food SEarch Section */
 
 .food-search{
     background-image: url(../images/bg.jpg);
